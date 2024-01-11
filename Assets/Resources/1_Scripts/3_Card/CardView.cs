@@ -23,7 +23,7 @@ public class CardView : MonoBehaviour
 
 
 
-    private CardBase[] CardList() //코드 복잡도 낮추기
+    private CardBase[] CardList() //코드 복잡도 낮추기  
     {
         return Database.CardBaseList;
     }

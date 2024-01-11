@@ -17,6 +17,12 @@ public static class Database
 
     }
 
+    public enum CardStateID
+    {
+        ÀüÅõ,
+
+    }
+
     public static CardBase[] CardBaseList;
 
 
